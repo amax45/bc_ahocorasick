@@ -1,5 +1,5 @@
 # bc_ahocorasick
-Bachelor thesis program, using Aho-Corasick algorithm.
+Bachelor thesis program, using Aho-Corasick algorithm. Originally from: https://github.com/robert-bor/aho-corasick.
 
 Include this dependency in your POM. Be sure to check for the latest version in Maven Central.
 ```
